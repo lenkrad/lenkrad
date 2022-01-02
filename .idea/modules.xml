@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/lenkrad.iml" filepath="$PROJECT_DIR$/lenkrad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/lenkrad_cash/lenkrad_cash.iml" filepath="$PROJECT_DIR$/modules/lenkrad_cash/lenkrad_cash.iml" />
     </modules>
   </component>
 </project>

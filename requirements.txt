@@ -1,1 +1,7 @@
 flask
+bs4
+pandas
+numpy
+piecash
+yoyo-migrations
+click
